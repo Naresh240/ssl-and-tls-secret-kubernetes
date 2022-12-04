@@ -6,7 +6,7 @@ A self-signed SSL certificate is an SSL Certificate that is issued by the person
 
 ## Step 1: Generate a CA private key
 ```bash
-openSSL genrsa -out ca.key 2048
+openssl genrsa -out ca.key 2048
 ```
 
 ## Step 2: Create a self-signed certificate, valid for 365 days
