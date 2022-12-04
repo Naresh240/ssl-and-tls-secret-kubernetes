@@ -1,6 +1,6 @@
 # ssl-and-tls-secret-kubernetes
 
-##Self Signed Certificate
+## Self Signed Certificate
 
 A self-signed SSL certificate is an SSL Certificate that is issued by the person creating it rather than a trusted certificate authority. This can be good for testing environments.
 
