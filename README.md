@@ -24,5 +24,4 @@ openssl req -x509 \
 kubectl create secret tls nginx-tls-secret \
 --key ca.key \
 --cert ca.crt
-secret "nginx-tls-secret" created
 ```
